@@ -1,0 +1,3 @@
+C:/Users/yara/register/fundemental progect/cmake-build-debug/CMakeFiles/fundemental_progect.dir
+C:/Users/yara/register/fundemental progect/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yara/register/fundemental progect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
